@@ -9,6 +9,8 @@ View all notes in the file
 Exit the program
 
 Usage
+tool or ide : eclipse
+or 
 Compile the program: javac NotesApp.java
 Run the program: java NotesApp
 Choose an option:
